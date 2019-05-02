@@ -1,2 +1,1 @@
-#WTL_Proj
-#WTL_Proj
+Mini Project on Web Technology using PHP for 1st sem of MCA.
